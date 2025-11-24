@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "course": "Ci\u00eancia da Computa\u00e7\u00e3o",
+    "current_gpa": 8.5,
+    "tips": [
+      {
+        "icon": "\ud83d\udcda",
+        "description": "\u00d3timo trabalho, Alice! Mantenha o foco em Ci\u00eancia da Computa\u00e7\u00e3o. Tente revisar seus materiais de est..."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno",
+    "course": "Engenharia Civil",
+    "current_gpa": 7.2,
+    "tips": [
+      {
+        "icon": "\ud83d\udcda",
+        "description": "Bruno, voc\u00ea est\u00e1 no caminho certo em Engenharia Civil. Identifique as \u00e1reas mais desafiadoras e dedi..."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carla",
+    "course": "Medicina",
+    "current_gpa": 9.1,
+    "tips": [
+      {
+        "icon": "\ud83d\udcda",
+        "description": "Parab\u00e9ns, Carla! Seu desempenho em Medicina \u00e9 excelente. Considere se aprofundar em um t\u00f3pico de pes..."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Daniel",
+    "course": "Direito",
+    "current_gpa": 6.8,
+    "tips": [
+      {
+        "icon": "\ud83d\udcda",
+        "description": "Ol\u00e1, Daniel. Em Direito, \u00e9 crucial reavaliar sua estrat\u00e9gia de estudos. Busque ajuda de professores ..."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eduarda",
+    "course": "Arquitetura",
+    "current_gpa": 8.0,
+    "tips": [
+      {
+        "icon": "\ud83d\udcda",
+        "description": "\u00d3timo trabalho, Eduarda! Mantenha o foco em Arquitetura. Tente revisar seus materiais de estudo com ..."
+      }
+    ]
+  }
+]
